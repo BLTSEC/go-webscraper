@@ -6,7 +6,7 @@ go-scrapealerts
 Written by: Brennan Turner (@BLTSEC)
 Website: https://bltsec.ninja
 
-			 ,_---~~~~~----._         
+		,_---~~~~~----._         
 	  _,,_,*^____      _____``*g*\"*, 
 	 / __/ /'     ^.  /      \ ^@q   f 
 	[  @f | @))    |  | @))   l  0 _/  
