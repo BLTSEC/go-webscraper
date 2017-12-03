@@ -6,17 +6,7 @@ go-scrapealerts
 Written by: Brennan Turner (@BLTSEC)
 Website: https://bltsec.ninja
 
-		,_---~~~~~----._         
-	  _,,_,*^____      _____``*g*\"*, 
-	 / __/ /'     ^.  /      \ ^@q   f 
-	[  @f | @))    |  | @))   l  0 _/  
-	 \`/   \~____ / __ \_____/    \   
-	  |           _l__l_           I   
-	  }          [______]           I  
-	  ]            | | |            |  
-	  ]             ~ ~             |  
-	  |                            |   
-	   |                           |   
+<img width="40%" src=https://raw.githubusercontent.com/BLTSEC/go-webscraper/master/govatar.png></img>
 
 
 ## Requirements
